@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="ae318b53-bda7-44d4-b015-f4ac9b00eb4f"
-ARG CADDYIndexPage="https://github.com/technext/landingzero/archive/refs/heads/master.zip"
+ARG CADDYIndexPage="https://github.com/technext/themelight-onepage-business-html5-template/archive/refs/heads/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
