@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:latest
 
 ARG AUUID="ae318b53-bda7-44d4-b015-f4ac9b00eb4f"
 ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page256/soft-landing.zip"
